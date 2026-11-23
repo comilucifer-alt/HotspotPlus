@@ -1,2 +1,2 @@
 # 本文件由 cron_update.sh 依据 config.json 的 cron_jobs 自动生成，不用手工编辑。
-# 改完 config.json 后执行模块目录下的 cron_update.sh 即可立即生效。
+.# 改完 config.json 后执行模块目录下的 cron_update.sh 即可立即生效。
